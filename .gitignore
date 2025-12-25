@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# clasp credentials (contains script ID - not secret but project-specific)
+.clasp.json
